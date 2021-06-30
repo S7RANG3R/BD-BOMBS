@@ -13,8 +13,8 @@ $ apt-get update && apt-get upgrade
 
    $ git clone https://github.com/S7RANG3R/BD-BOMBS
 
-   $ cd BD-BOMBS
+   $ cd BD-BOMBS && chmod +x *
 
-  $ python2 install.py
+  $ python2 BD-Bombs.py
 
 # TEAM BADS
