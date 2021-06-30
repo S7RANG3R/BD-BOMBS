@@ -9,12 +9,12 @@ $ apt-get update && apt-get upgrade
 
 ৳$ pkg install python2
 
-   $ pip install requests
+$ pip install requests
 
-   $ git clone https://github.com/S7RANG3R/BD-BOMBS
+$ git clone https://github.com/S7RANG3R/BD-BOMBS
 
-   $ cd BD-BOMBS && chmod +x *
+$ cd BD-BOMBS && chmod +x *
 
-  $ python2 BD-Bombs.py
+$ python2 BD-Bombs.py
 
 # TEAM BADS
