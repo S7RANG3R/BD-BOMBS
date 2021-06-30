@@ -7,7 +7,7 @@ CREATED BY ADIL ARHAM SHORIF (STR4NG3R)
 
 $ apt-get update && apt-get upgrade
 
-   ৳$ pkg install python2
+৳$ pkg install python2
 
    $ pip install requests
 
