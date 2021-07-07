@@ -1,9 +1,9 @@
-<h2 align="center">BD-BOMBS TOOLS V1.0</h2>
+<h3 align="center">BD-BOMBS TOOLS V1.0</h3>
 
 <h5>BANGLADESHI NUMBERS   BEST SMS BOMBING TOOLS</h5>
 
 <h4 align="center">CREATED BY</h4>
-<h5 align="">ADIL ARHAM SHORIF (STR4NG3R)<!---<br>TEAM BADS - SECURITY RESEARCHERS</h5>-->
+<h5 align="center">ADIL ARHAM SHORIF (STR4NG3R)<!---<br>TEAM BADS - SECURITY RESEARCHERS</h5>-->
 
 <h4 align="center">THIS TOOLS INSTALLATION COMMAND</h4>
 
