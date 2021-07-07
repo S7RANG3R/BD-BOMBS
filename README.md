@@ -1,20 +1,22 @@
-#   BD-BOMBS TOOLS
-BANGLADESHI NUMBERS   BEST SMS BOMBING TOOLS
+<h2 align="center">BD-BOMBS TOOLS V1.0</h2>
 
-CREATED BY ADIL ARHAM SHORIF (STR4NG3R)
+<h5>BANGLADESHI NUMBERS   BEST SMS BOMBING TOOLS</h5>
 
-# INSTALLATION COMMAND
+<h4 align="center">CREATED BY</h4>
+<h5 align="center">ADIL ARHAM SHORIF (MR STR4NG3R)<br>TEAM BADS - SECURITY RESEARCHERS</h5>
 
-$ apt-get update && apt-get upgrade
+<h4 align="center">THIS TOOLS INSTALLATION COMMAND</h4>
 
-৳$ pkg install python2
+<pre>$ apt-get update && apt-get upgrade</pre>
 
-$ pip install requests
+<pre>৳$ pkg install python2</pre>
 
-$ git clone https://github.com/S7RANG3R/BD-BOMBS
+<pre>$ pip install requests</pre>
 
-$ cd BD-BOMBS && chmod +x *
+<pre>$ git clone https://github.com/S7RANG3R/BD-BOMBS</pre>
 
-$ python2 BD-Bombs.py
+<pre>$ cd BD-BOMBS && chmod +x *</pre>
 
-# TEAM BADS
+<pre>$ python2 BD-Bombs.py</pre>
+
+<h5 align="center">TEAM BADS - SECURITY RESEARCHERS</h5>
