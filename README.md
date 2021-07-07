@@ -3,9 +3,9 @@
 <h5>BANGLADESHI NUMBERS   BEST SMS BOMBING TOOLS</h5>
 
 <h4 align="center">CREATED BY</h4>
-<h5 align="">ADIL ARHAM SHORIF (MR STR4NG3R)<br>TEAM BADS - SECURITY RESEARCHERS</h5>
+<h5 align="">ADIL ARHAM SHORIF (STR4NG3R)<!---<br>TEAM BADS - SECURITY RESEARCHERS</h5>-->
 
-<h4 align="">THIS TOOLS INSTALLATION COMMAND</h4>
+<h4 align="center">THIS TOOLS INSTALLATION COMMAND</h4>
 
 <pre>$ apt-get update && apt-get upgrade</pre>
 
